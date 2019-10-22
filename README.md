@@ -7,6 +7,6 @@
 ### Deployments
 [Netlify](https://youthful-kilby-f7f534.netlify.com/)  
 [AWS S3](http://lab-27.s3-website.us-east-2.amazonaws.com/)  
-[CloudFront](http://hd3v5rr4s8twn55.cloudfront.net/)
+[CloudFront](https://d3v5rr4s8twn55.cloudfront.net)
 
 
