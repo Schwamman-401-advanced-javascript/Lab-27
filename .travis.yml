@@ -7,6 +7,5 @@ branches:
 
 script:
   - npm test
-  - npm run lint
   
 
